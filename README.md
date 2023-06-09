@@ -5,7 +5,7 @@ I am Jia Yi, a final year <b> Information Systems student</b> with a 2nd major i
 
 - 🔭 I’m currently working on real-time streaming projects
 - 🌱 Learning about Elasticsearch and search systems
-- 💬 Ask me about fiction!! I love reading in my free time
+- 💬 Ask me about books!! I love reading in my free time
 - 📬 You can reach me at: jiayi.wong.2020@scis.smu.edu.sg
 
 
@@ -25,6 +25,7 @@ I am Jia Yi, a final year <b> Information Systems student</b> with a 2nd major i
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![sklearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -33,5 +34,8 @@ I am Jia Yi, a final year <b> Information Systems student</b> with a 2nd major i
 
 <h3> 📖 Currently Learning </h3>
 
-![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+
+<h3> 💫 Fun Facts </h3>
+- <b> Reading:</b> The Measure by Nikki Erlick 
+- <b> Watching:</b> Old Formula One races from 2016
