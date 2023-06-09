@@ -13,6 +13,7 @@ I am Jia Yi, a final year <b> Information Systems student</b> with a 2nd major i
 <a target="_blank" href="https://www.kaggle.com/jiayii1">![kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)</a>
 
 <h3> 🎯 Internship Experiences </h3>
+
 - Data Science Intern @ DBS Bank [May 2023 - Aug 2023] <br>
 - Data Analyst Intern @ BeLive Technology [Aug 2022 - Nov 2022] <br>
 - Data Analyst Intern @ Quest [May 2022 - Aug 2022] <br>
@@ -38,9 +39,6 @@ I am Jia Yi, a final year <b> Information Systems student</b> with a 2nd major i
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
 <h3> 💫 Fun Facts </h3>
+
 - <b> Reading:</b> The Measure by Nikki Erlick 
 - <b> Watching:</b> Old Formula One races from 2016
-
-<p> <img src="https://komarev.com/ghpvc/?username=jiayii01&label=Profile%20views&color=0e75b6&style=flat" alt="jiayii01" /> </p>
-
-<p><img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiayii01&show_icons=true&locale=en&layout=compact" alt="jiayii01" /></p>
