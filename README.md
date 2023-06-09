@@ -39,3 +39,7 @@ I am Jia Yi, a final year <b> Information Systems student</b> with a 2nd major i
 <h3> 💫 Fun Facts </h3>
 - <b> Reading:</b> The Measure by Nikki Erlick 
 - <b> Watching:</b> Old Formula One races from 2016
+
+<p> <img src="https://komarev.com/ghpvc/?username=jiayii01&label=Profile%20views&color=0e75b6&style=flat" alt="jiayii01" /> </p>
+
+<p><img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiayii01&show_icons=true&locale=en&layout=compact" alt="jiayii01" /></p>
