@@ -4,9 +4,9 @@
 I am Jia Yi, a final year <b> Information Systems student</b> with a 2nd major in <b>Data Science and Analytics</b>
 
 - 🔭 I’m currently working on real-time streaming projects
-- 🌱 Learning about Elasticsearch and search systems
+- 🌱 Learning about Generative AI 
 - 💬 Ask me about books!! I love reading in my free time
-- 📬 You can reach me at: jiayi.wong.2020@scis.smu.edu.sg
+- 📬 You can reach me at: jiayiwong.work@gmail.com
 
 
 <a target="_blank" href="https://www.linkedin.com/in/jia-yi-wong">![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
