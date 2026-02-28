@@ -12,6 +12,10 @@ I am Jia Yi, a Data Analyst at the <b> Ministry of Social and Family Development
 <a target="_blank" href="https://www.linkedin.com/in/jia-yi-wong">![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a target="_blank" href="https://www.kaggle.com/jiayii1">![kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=Kaggle&logoColor=white)</a>
 
+<h3> 🎯 Work Experiences </h3>
+
+- Data Analyst @ Ministry of Social and Family Development [Dec 2023 - Present] <br>
+
 <h3> 🎯 Internship Experiences </h3>
 
 - Data Science Intern @ DBS Bank [May 2023 - Aug 2023] <br>
