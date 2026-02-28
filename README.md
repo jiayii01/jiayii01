@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 <h3> 🚀 About me </h3>
-I am Jia Yi, a final year <b> Information Systems student</b> with a 2nd major in <b>Data Science and Analytics</b>
+I am Jia Yi, a Data Analyst at the <b> Ministry of Social and Family Development</b>, working on some projects like an <b>automated media monitoring dashboard</b>, <b>predicting the virality of news items</b> and <b>getting a better understanding of drivers of outcomes of the lower-income</b>
 
 - 🔭 I’m currently working on real-time streaming projects
 - 🌱 Learning about Generative AI 
